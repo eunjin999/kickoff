@@ -1,14 +1,14 @@
 /* ===== Variables ===== */
 :root {
   --bg: #faf9f7;
-  --bg-alt: #f0ede8;
+  --bg-alt: #ffff81;
   --surface: #ffffff;
   --text: #1a1a1a;
-  --text-muted: #6b6560;
-  --accent: #2d4a3e;
-  --accent-light: #3d6b58;
+  --text-muted: #ff32c1;
+  --accent: #a4d7c2;
+  --accent-light: #a2c9b9;
   --accent-soft: #e8f0ec;
-  --gold: #b8956a;
+  --gold: #c4f8ef;
   --gold-soft: #f5efe6;
   --border: rgba(26, 26, 26, 0.08);
   --shadow: 0 4px 24px rgba(26, 26, 26, 0.06);
